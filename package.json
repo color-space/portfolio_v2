@@ -20,6 +20,8 @@
     "unplugin-vue-components": "^0.17.21"
   },
   "dependencies": {
+    "buffer-crc32": "^0.2.13",
+    "daisyui": "^2.6.4",
     "pinia": "^2.0.11"
   }
 }

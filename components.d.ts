@@ -9,6 +9,7 @@ declare module 'vue' {
     'Carbon:logoTwitter': typeof import('~icons/carbon/logo-twitter')['default']
     'Carbon:moon': typeof import('~icons/carbon/moon')['default']
     'Carbon:sun': typeof import('~icons/carbon/sun')['default']
+    'SimpleIcons:javascript': typeof import('~icons/simple-icons/javascript')['default']
     'SimpleIcons:nuxtdotjs': typeof import('~icons/simple-icons/nuxtdotjs')['default']
   }
 }

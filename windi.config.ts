@@ -1,10 +1,13 @@
 
 import { defineConfig } from 'windicss/helpers'
 import colors from 'windicss/colors'
+import daisy_ui from 'daisyui'
+
 
 export default defineConfig({
   darkMode: 'class',
   attributify: true,
+  plugins: [daisy_ui],
   theme: {
     colors: {
       transparent: 'transparent',

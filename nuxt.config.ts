@@ -22,7 +22,7 @@ export default defineNuxtConfig({
     ]
   ],
   windicss: {
-    analyze: true,
+    analyze: false,
   },
   vite: {
     plugins: [
